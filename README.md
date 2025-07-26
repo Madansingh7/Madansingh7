@@ -8,15 +8,7 @@
 # 💻 Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=madansingh7&theme=dark&hide_border=false)<br/>
-![madansingh7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madansingh7&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=madansingh7&theme=dark&hide_border=true)<br/>
+![madansingh7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madansingh7&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=madansingh7&icon=5&color=0)](https://visitcount.itsvg.in)
-
-!\[GitHub Stats]\([https://github-readme-stats.vercel.app/api?username=madansingh7\&show\_icons=true\&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=madansingh7&show_icons=true&theme=tokyonight))
-
-!\[Top Languages]\([https://github-readme-stats.vercel.app/api/top-langs/?username=madansingh7\&layout=compact\&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=madansingh7&layout=compact&theme=tokyonight))
-
-!\[GitHub Streak]\([https://github-readme-streak-stats.herokuapp.com/?user=madansingh7\&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=madansingh7&theme=tokyonight))
-
