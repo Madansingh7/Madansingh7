@@ -14,3 +14,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=madansingh7&icon=5&color=0)](https://visitcount.itsvg.in)
 
+!\[GitHub Stats]\([https://github-readme-stats.vercel.app/api?username=madansingh7\&show\_icons=true\&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=madansingh7&show_icons=true&theme=tokyonight))
+
+!\[Top Languages]\([https://github-readme-stats.vercel.app/api/top-langs/?username=madansingh7\&layout=compact\&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=madansingh7&layout=compact&theme=tokyonight))
+
+!\[GitHub Streak]\([https://github-readme-streak-stats.herokuapp.com/?user=madansingh7\&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=madansingh7&theme=tokyonight))
+
