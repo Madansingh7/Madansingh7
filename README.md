@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>C++ and DSA with Apna College<br><br>🤝 I’m looking to collaborate on:<br>Basic web dev or DSA mini-projects<br><br>💛 I’m looking for help with:<br>Writing better C++ code<br><br>🌱 I’m currently learning:<br>C++, web dev and sorting algorithms<br><br>💬 Ask me about:<br>HTML, CSS, or C basics<br><br>⚡ Fun fact:<br>I use my free time to level up my skills daily!
+🔭 I’m currently working on:<br>C++ and DSA <br><br>🤝 I’m looking to collaborate on:<br>Basic web dev or DSA mini-projects<br><br>💛 I’m looking for help with:<br>Writing better C++ code<br><br>🌱 I’m currently learning:<br>C++, web dev and sorting algorithms<br><br>💬 Ask me about:<br>HTML, CSS, or C basics<br><br>⚡ Fun fact:<br>I use my free time to level up my skills daily!
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=madansingh7)
 ## 🌐 Socials:
