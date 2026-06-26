@@ -23,10 +23,9 @@
   <tr>
     <td valign="top" width="60%">
       <h3>🚀 About Me</h3>
-      <p>I am a computer science student and developer based in India, focusing on building solid web applications and strengthening my software engineering foundations.</p>
+      <p>I am CSE student @SDMCET, focusing on Learning, building, and solving problems through web development and data structures.</p>
       <ul>
-        <li>🎓 <b>Studies:</b> Pursuing my computer science degree and learning computer science fundamentals.</li>
-        <li>💻 <b>Interests:</b> Web Development, Data Structures, and Algorithmic Problem Solving.</li>
+        <li>💻 <b>Interests:</b> Web Development, Data Structures.</li>
         <li>🌱 <b>Learning:</b> Actively expanding my knowledge in modern web architectures.</li>
       </ul>
     </td>
