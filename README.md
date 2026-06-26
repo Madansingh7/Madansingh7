@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_profile_banner.png" alt="Madan Singh Banner" width="100%" height="50%" />
+  <img src="./github_profile_banner.jpeg" alt="Madan Singh Banner" width="100%" height="50%" />
 </p>
 
 <p align="center">
